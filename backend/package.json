@@ -1,0 +1,12 @@
+{
+  "name": "intraday-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Read-only market data backend for the Intraday Signal Desk. Upstox adapter with simulated fallback. Places no orders.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
