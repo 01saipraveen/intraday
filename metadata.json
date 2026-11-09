@@ -1,0 +1,6 @@
+{
+  "name": "TradePulse — Intraday Stock Trading & Strategy Terminal",
+  "description": "Intraday stock market analyzer, automated paper trading workstation, visual and AI strategy builder, and real-time technical signal engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
